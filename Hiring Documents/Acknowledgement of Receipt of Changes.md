@@ -1,3 +1,8 @@
+---
+post_title: 'Acknowledgement of Receipt of Changes'
+layout: docs
+published: true
+---
 # Acknowledgement of Receipt of Changes to the Employee Handbook
 
 I acknowledge I have received a copy of the changes to the Pegas Technology Solutions Employee Handbook that will take effect on **DATE**, have read them, and understand their provisions.  I further understand that if I have a question, I am obligated to ask one of the founders for clarification of any provisions in the Employee Handbook.

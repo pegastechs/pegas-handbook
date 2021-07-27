@@ -1,3 +1,8 @@
+---
+post_title: 'Onboarding'
+layout: docs
+published: true
+---
 # Onboarding
 
 This document is about the general priorities and policies for how we as a company bring new employees onto the team. As a new person on the team, if you have questions about starting at Pegas Technology Solutions, check out [Your First Day at Pegas Technology Solutions](https://docs.google.com/document/d/1vvJfWH7lP808mAlKPr8JwUx0HvkiidzS_bkwB8wqA7M).

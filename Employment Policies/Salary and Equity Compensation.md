@@ -1,3 +1,8 @@
+---
+post_title: 'Salary and Equity Compensation'
+layout: docs
+published: true
+---
 #Salary and Equity Compensation
 
 The following policy will apply to compensation offers for the first 10 employees at Pegas Technology Solutions. After we have hired 10 people, we will likely revise the salary rubric and equity amount.

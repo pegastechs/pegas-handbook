@@ -1,3 +1,8 @@
+---
+post_title: 'Drug and Alcohol Policy'
+layout: docs
+published: true
+---
 # Drug and Alcohol Policy
 
 Our priority at Pegas Technology Solutions is to create a safe, comfortable, and productive environment for everyone we work with. We realize that drugs and alcohol can contribute to a culture of harassment or one that feels unsafe for some employees, even as it can foster camaraderie and friendship among others. Above all other considerations, our drug and alcohol policy is intended to preempt and avoid harassment and make work at Pegas Technology Solutions feel safe.

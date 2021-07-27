@@ -1,3 +1,8 @@
+---
+post_title: 'Internal Transparency'
+layout: docs
+published: true
+---
 # Internal Transparency
 
 The best way for you to make a decision about what’s good for Pegas Technology Solutions is to have all of the information about what’s going on at Pegas Technology Solutions. The same is true for everyone else you work with, so it’s important that we’re all up to date about what’s happening, even with the areas of Pegas Technology Solutions that we’re not actively involved with.

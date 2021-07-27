@@ -1,3 +1,8 @@
+---
+post_title: 'Product Manifesto'
+layout: docs
+published: true
+---
 # Product Manifesto
 
 Working on Pegas Technology Solutions, it is tempting to optimize for some of the metrics which have been important to other companies like ours. We can use these metrics to compare ourselves against passwords and traditional two-factor authentication, and eke out incremental benefits for users or sites who decide to use Pegas Technology Solutions. Those metrics might include:

@@ -1,3 +1,8 @@
+---
+post_title: 'Sabbatical'
+layout: docs
+published: true
+---
 # Sabbatical
 
 After every 5 years of working at Pegas Technology Solutions, employees are encouraged to take a one-quarter (12 contiguous weeks) paid sabbatical.

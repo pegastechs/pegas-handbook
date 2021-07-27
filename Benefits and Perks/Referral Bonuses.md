@@ -1,3 +1,8 @@
+---
+post_title: 'Referral Bonuses'
+layout: docs
+published: true
+---
 # Referral Bonuses
 
 Referrals from people who already work at Pegas Technology Solutions are one of the best signals we can get about whether or not a candidate will be successful at Pegas Technology Solutions. Pegas Technology Solutions employees understand Pegas Technology Solutions needs and what it’s like to work at Pegas Technology Solutions, and their relationship with the candidate means they know a lot more than we can learn during an interview process.

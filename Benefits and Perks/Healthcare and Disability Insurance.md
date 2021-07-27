@@ -1,3 +1,8 @@
+---
+post_title: 'Healthcare and Disability Insurance'
+layout: docs
+published: true
+---
 # Healthcare and Disability Insurance
 
 Pegas Technology Solutions priorities with benefits are wellness and education, so it’s important that we offer our employees great medical coverage and disability insurance.

@@ -1,3 +1,8 @@
+---
+post_title: 'Objectives and Key Results'
+layout: docs
+published: true
+---
 #Objectives and Key Results
 
 Objectives and Key Results (OKRs) is a method for defining and keeping track of goals and their outcomes. They organize our goals by breaking them into high-level aspirations (objectives) and the measurable results that determine whether or not we’ve reached them (key results). OKRs are set at the company and individual level to help everyone see how their personal goals align with Pegas Technology Solutions goals, and also see how other people in the organization are working for the same outcomes from a different perspective.

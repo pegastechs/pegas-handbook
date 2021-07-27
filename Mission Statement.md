@@ -1,3 +1,8 @@
+---
+post_title: 'Mission Statement'
+layout: docs
+published: true
+---
 # Mission Statement
 
 ## Our mission is to empower everyone to own their identity online.

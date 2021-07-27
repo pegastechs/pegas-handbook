@@ -1,3 +1,8 @@
+---
+post_title: 'Code of Conduct in the Community'
+layout: docs
+published: true
+---
 # Code of Conduct
 
 This code of conduct applies to community members and Pegas Technology Solutions team members in all Pegas Technology Solutions communities online (including but not limited to IRC, support chat, the Pegas Technology Solutions Community Slack group, Twitter, and Facebook), in the Pegas Technology Solutions office, and at all events hosted by Pegas Technology Solutions.

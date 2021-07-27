@@ -1,3 +1,8 @@
+---
+post_title: 'Vacation and Sick Leave'
+layout: docs
+published: true
+---
 # Vacation and Sick Leave
 
 Taking time off and recharging is critical to doing your best work at Pegas Technology Solutions, so in addition to the recognized [Holiday List](https://github.com/pegastechs/pegas-handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md), Pegas Technology Solutions offers 3 weeks (15 days) of paid vacation every year that accrues 1.25 of a day per month of work. Employees should schedule their vacations, let the rest of the team know, and add it to their shared work calendar at least a week in advance.

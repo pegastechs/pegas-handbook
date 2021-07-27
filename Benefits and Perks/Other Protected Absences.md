@@ -1,3 +1,8 @@
+---
+post_title: 'Other Protected Absences'
+layout: docs
+published: true
+---
 # Other Protected Absences
 
 ## Pregnancy Disability Leave

@@ -1,3 +1,8 @@
+---
+post_title: 'One on Ones'
+layout: docs
+published: true
+---
 # One on Ones
 
 Every week, every member of the Pegas Technology Solutions team meets with their manager in an open ended meeting that lasts at least thirty minutes. The agenda for the one on one is set by the employee and its primary intention is to build a trusting relationship. This is not a status check-up or performance evaluation, it’s dedicated time where the manager is available to hear what each member of their team is excited or frustrated about, what is blocking or scaring them, and what’s going well or could use improvement.

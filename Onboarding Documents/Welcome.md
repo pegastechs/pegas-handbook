@@ -1,3 +1,8 @@
+---
+post_title: 'Welcome'
+layout: docs
+published: true
+---
 # Welcome to Pegas Technology Solutions
 
 Hey! Welcome to the Pegas Technology Solutions team, we’re so excited to have you with us. We’re hoping you’re going to learn a lot working here and that we’ll learn a lot from you. But first, this document will help you start figuring out how Pegas Technology Solutions works and how we work together.

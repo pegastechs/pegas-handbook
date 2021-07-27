@@ -1,3 +1,8 @@
+---
+post_title: 'Values'
+layout: docs
+published: true
+---
 # Pegas Technology Solutions Core Values
 
 ## Be better today than yesterday.

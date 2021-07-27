@@ -1,3 +1,8 @@
+---
+post_title: 'Guide to Your Equity'
+layout: docs
+published: true
+---
 # Guide to Your Equity
 
 There are currently **4,662,658** shares of Pegas Technology Solutions common stock outstanding.

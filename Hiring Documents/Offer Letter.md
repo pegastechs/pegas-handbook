@@ -1,3 +1,8 @@
+---
+post_title: 'Offer Letter'
+layout: docs
+published: true
+---
 Welcome to Pegas Technology Solutions, **FIRST_NAME**!
 
 We are excited to extend an official offer for you to join the Pegas Technology Solutions team as **a/the TITLE**. This offer letter will go over the basics of working at Pegas Technology Solutions, but there are a lot more details in our [Employee Handbook](https://github.com/pegastechs/pegas-handbook). If you have any questions that aren’t in this letter or the handbook, please let me know.

@@ -1,3 +1,8 @@
+---
+post_title: 'Sharing Files'
+layout: docs
+published: true
+---
 # Sharing Files at Pegas Technology Solutions
 
 ## Base Directories

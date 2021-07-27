@@ -1,3 +1,8 @@
+---
+post_title: 'Employee Privacy'
+layout: docs
+published: true
+---
 # Employee Privacy
 
 ## Workspace Privacy

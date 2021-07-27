@@ -1,3 +1,8 @@
+---
+post_title: 'Interview Process'
+layout: docs
+published: true
+---
 # Interview Process
 
 Every candidate should go through three interviews that help us find the right person for the job.

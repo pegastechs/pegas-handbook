@@ -1,3 +1,8 @@
+---
+post_title: 'Holiday List'
+layout: docs
+published: true
+---
 # Pegas Technology Solutions Observed Holiday List
 
 <table>

@@ -1,3 +1,8 @@
+---
+post_title: 'Direct Reports'
+layout: docs
+published: true
+---
 # Direct Reports
 
 Everyone who works at Pegas Technology Solutions should report to Richard, or William. The goal of this relationship is to provide support and guidance to the employee -- this is the person they will talk to about their goals, meet with regularly, and go to first with questions. We are not doing any official performance reviews yet, but this is also the relationship where employees will get feedback on how they are doing and areas where they can improve.

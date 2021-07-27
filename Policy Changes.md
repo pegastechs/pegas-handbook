@@ -1,3 +1,8 @@
+---
+post_title: 'Policy Changes'
+layout: docs
+published: true
+---
 # Policy Changes
 
 We want all of our policies to be living documents which can improve and change as we learn and grow as a company. This is how we'll propose and make changes to our policies.

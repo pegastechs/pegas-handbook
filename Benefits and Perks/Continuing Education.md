@@ -1,3 +1,8 @@
+---
+post_title: 'Continuing Education'
+layout: docs
+published: true
+---
 # Continuing Education
 
 One of Pegas Technology Solutions core values is “Be better today than yesterday,” so it’s important that we support our employees’ efforts to learn, grow, and improve. These are some of the key benefits of working at Pegas Technology Solutions, and are central to our company culture.
