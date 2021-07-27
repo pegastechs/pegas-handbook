@@ -1,6 +1,6 @@
 ---
 post_title: 'Values'
-layout: docs
+layout: posts
 published: true
 ---
 # Pegas Technology Solutions Core Values
