@@ -30,7 +30,7 @@ The first day can be intense, so if you’re feeling drained we can all cheer to
 
 ## The Basics about Pegas Technology Solutions
 
-**Pegas Technology Solutions is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Pegas Technology Solutions and they guide the decisions we make here. You can read more about the [Pegas Technology Solutions Values](https://github.com/clef/handbook/blob/master/Values.md), but the short versions are:
+**Pegas Technology Solutions is a values-driven company.** Hopefully you heard about this a lot during your interview process, but we take our values really seriously at Pegas Technology Solutions and they guide the decisions we make here. You can read more about the [Pegas Technology Solutions Values](https://github.com/pegastechs/pegas-handbook/blob/master/Values.md), but the short versions are:
 
 * Be better today than yesterday
 

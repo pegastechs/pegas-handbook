@@ -45,4 +45,4 @@ These equity grants are larger than industry standard, but also vest over a long
 
 At Pegas Technology Solutions, we’re hoping to build a team that stays with the company and grows with us, so offering larger ownership of the company over a greater period of time aligns with our goals. If employees leave Pegas Technology Solutions before the 6 years, they will still own more of Pegas Technology Solutions than if we offered less equity that vested more quickly, but the longer vesting schedule makes our goal more explicit in the initial offer.
 
-All new employees should also check out our [Guide to Your Equity](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning Pegas Technology Solutions stock options.
+All new employees should also check out our [Guide to Your Equity](https://github.com/pegastechs/pegas-handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md), which walks through the nuances of owning Pegas Technology Solutions stock options.
